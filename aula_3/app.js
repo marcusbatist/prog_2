@@ -38,15 +38,48 @@ switch(a){
         console.log(true);
 }
 */
-
+/*
 let a = 0;
 
 
 while (a < 10 ) {
-    console.log("a", a);
     
+    console.log("a", a);
+   a++;
+}
+*/
 
-a = a +1;
 
 
+
+const PI = 3.14;
+let arr = [20,30,40,10,100];
+/*
+console.log(arr);
+
+for (let i= arr.length-1;i >= 0;  i--) {
+    console.log(arr[i]);
+    
+}
+*/
+
+//mapear objetos
+arr.forEach((element,i) => {
+   //console.log(element);
+    console.log(i);
+});
+
+let obj ={
+    name:"Marcus",
+    apelido:"Batista",
+    idade:20,
+    homem:  true,
+ 
+
+
+}
+
+for (const key in obj) {
+
+    console.log(obj[key]);
 }
