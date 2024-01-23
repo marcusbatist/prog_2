@@ -1,0 +1,27 @@
+
+.red  {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+#play_pause{ 
+    border: 3px solid black ;
+    border-radius: 20px;
+}
+
+ul{
+    border: 3px solid black ;
+    border-radius: 20px;
+    color: rgb(255, 0, 0);
+    background-color: rgba(196, 23, 181, 0.689);
+}
+
+.inactive {
+    opacity: 0.5;
+    pointer-events:none;
+}
+
+
