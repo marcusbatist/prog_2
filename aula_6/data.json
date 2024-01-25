@@ -1,0 +1,23 @@
+
+[
+    {
+        "type": "carro",
+        "brand": "ferrari",
+        "speed":50
+    },
+    {
+        "type": "motocycle",
+        "brand": "ducatti",
+        "speed":900
+    },
+    {
+        "type": "carro",
+        "brand": "BMW",
+        "speed":600
+    },
+    {
+        "type": "motocycle",
+        "brand": "Honda",
+        "speed":900
+    }
+]
