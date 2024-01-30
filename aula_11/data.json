@@ -1,0 +1,40 @@
+[
+    {
+        "type": "bird",
+        "name":"seagull",
+        "canfly":true
+    },
+
+    {
+        "type": "bird",
+        "name":"frango",
+        "canfly":false
+    },
+
+    {
+        "type": "mammal",
+        "name":"horse",
+        "numlegs":4
+    },
+    {
+        "type": "mammal",
+        "name":"camelo",
+        "numlegs":4
+    },
+
+    {
+        "type": "reptile",
+        "name":"raptor",
+        "isAgressive":true
+    },
+
+    {
+        "type": "reptile",
+        "name":"lagarto",
+        "isAgressive":false
+    }
+
+
+
+
+]
