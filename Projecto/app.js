@@ -1,36 +1,9 @@
-/*
-//variaveis - let;
+import  galeria from "./Galery.js";
 
-let
-
-
-//variaveis - const;
-
-const 
-*/
-
-//window.onload;
-
-window.onload = () => {
-
-   
+window.onload = async () => {
+    const request = await fetch("data.json");
+    const result = await request.json();
 
 }
 
 
-
-// data.json
-
-/*
-
-[
-    {
-        "type":,
-        "title":,
-        "medium":,
-        "image":,
-        "artist":,
-    }
-]
-
-*/
