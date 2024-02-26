@@ -1,57 +1,83 @@
-[
-    {
-        "type":"escultura",
-        "title":"Estátua da Liberdade",
-        "medium":"Cobre",
-        "image":"img/liberdade.jpeg",
-        "artist":"Gustave Eiffel "
+[{
+        "type": "escultura",
+        "title": "Estátua da Liberdade",
+        "medium": "Cobre",
+        "image": "img/liberdade.jpeg",
+        "artist": "Gustave Eiffel "
     },
 
     {
-        "type":"escultura",
-        "title":"O Pensador",
-        "medium":"Bronze",
-        "image":"img/pensador.jpeg",
-        "artist":"Auguste Rodin"
-
-    },
-
-   
-
-    {
-        "type":"Fotografia",
-        "title":"Lunch atop a Skyscraper",
-        "medium":"Fotografia em preto e branco",
-        "image":"img/Skyscraper.jpeg",
-        "artist":"Charles C. Ebbets "
+        "type": "escultura",
+        "title": "O Pensador",
+        "medium": "Bronze",
+        "image": "img/pensador.jpeg",
+        "artist": "Auguste Rodin"
 
     },
 
     {
-        "type":"Fotografia",
-        "title":"The Tetons and the Snake River",
-        "medium":"Fotografia em preto e branco",
-        "image":"img/Adams.jpg",
-        "artist":"Ansel Adams "
+        "type": "escultura",
+        "title": "Michelangelo Buonarroti",
+        "medium": "Mármore",
+        "image": "img/Michelangelo.jpeg",
+        "artist": "David"
 
     },
 
-   
+
+
     {
-        "type":"pintura",
-        "title":"Mona Lisa",
-        "medium":"Óleo sobre madeira",
-        "image":"img/monalisa.jpeg",
-        "artist":"Leonardo da Vinci"
+        "type": "Fotografia",
+        "title": "Lunch atop a Skyscraper",
+        "medium": "Fotografia em preto e branco",
+        "image": "img/Skyscraper .jpeg",
+        "artist": "Charles C. Ebbets "
 
     },
 
     {
-        "type":"pintura",
-        "title":"A Noite Estrelada",
-        "medium":"Óleo sobre tela,",
-        "image":"img/noite_estrelada.jpeg",
-        "artist":"Vincent van Gogh"
+        "type": "Fotografia",
+        "title": "The Tetons and the Snake River",
+        "medium": "Fotografia em preto e branco",
+        "image": "img/Adams.jpg",
+        "artist": "Ansel Adams "
+
+    },
+
+    {
+        "type": "Fotografia",
+        "title": "Napalm Girl",
+        "medium": "Fotografia em preto e branco",
+        "image": "img/napalmgirl.jpg",
+        "artist": "Nick Ut"
+
+    },
+
+
+    {
+        "type": "pintura",
+        "title": "Mona Lisa",
+        "medium": "Óleo sobre madeira",
+        "image": "img/monalisa.jpeg",
+        "artist": "Leonardo da Vinci"
+
+    },
+
+    {
+        "type": "pintura",
+        "title": "A Noite Estrelada",
+        "medium": "Óleo sobre tela,",
+        "image": "img/noite_estrelada.jpeg",
+        "artist": "Vincent van Gogh"
+
+    },
+
+    {
+        "type": "pintura",
+        "title": "A Última Ceia",
+        "medium": "Afresco",
+        "image": "img/ceia.jpg",
+        "artist": "Leonardo da Vinci"
 
     }
 
